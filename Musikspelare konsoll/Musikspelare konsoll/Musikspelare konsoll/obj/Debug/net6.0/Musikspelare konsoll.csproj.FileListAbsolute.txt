@@ -1,0 +1,18 @@
+C:\Users\alind\OneDrive\Skrivbord\Musikspelare konsoll\Musikspelare konsoll\Musikspelare konsoll\bin\Debug\net6.0\Musikspelare konsoll.exe
+C:\Users\alind\OneDrive\Skrivbord\Musikspelare konsoll\Musikspelare konsoll\Musikspelare konsoll\bin\Debug\net6.0\Musikspelare konsoll.deps.json
+C:\Users\alind\OneDrive\Skrivbord\Musikspelare konsoll\Musikspelare konsoll\Musikspelare konsoll\bin\Debug\net6.0\Musikspelare konsoll.runtimeconfig.json
+C:\Users\alind\OneDrive\Skrivbord\Musikspelare konsoll\Musikspelare konsoll\Musikspelare konsoll\bin\Debug\net6.0\Musikspelare konsoll.dll
+C:\Users\alind\OneDrive\Skrivbord\Musikspelare konsoll\Musikspelare konsoll\Musikspelare konsoll\bin\Debug\net6.0\Musikspelare konsoll.pdb
+C:\Users\alind\OneDrive\Skrivbord\Musikspelare konsoll\Musikspelare konsoll\Musikspelare konsoll\obj\Debug\net6.0\Musikspelare konsoll.csproj.AssemblyReference.cache
+C:\Users\alind\OneDrive\Skrivbord\Musikspelare konsoll\Musikspelare konsoll\Musikspelare konsoll\obj\Debug\net6.0\Interop.WMPLib.dll
+C:\Users\alind\OneDrive\Skrivbord\Musikspelare konsoll\Musikspelare konsoll\Musikspelare konsoll\obj\Debug\net6.0\Interop.MediaPlayer.dll
+C:\Users\alind\OneDrive\Skrivbord\Musikspelare konsoll\Musikspelare konsoll\Musikspelare konsoll\obj\Debug\net6.0\Musikspelare konsoll.csproj.ResolveComReference.cache
+C:\Users\alind\OneDrive\Skrivbord\Musikspelare konsoll\Musikspelare konsoll\Musikspelare konsoll\obj\Debug\net6.0\Musikspelare konsoll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alind\OneDrive\Skrivbord\Musikspelare konsoll\Musikspelare konsoll\Musikspelare konsoll\obj\Debug\net6.0\Musikspelare konsoll.AssemblyInfoInputs.cache
+C:\Users\alind\OneDrive\Skrivbord\Musikspelare konsoll\Musikspelare konsoll\Musikspelare konsoll\obj\Debug\net6.0\Musikspelare konsoll.AssemblyInfo.cs
+C:\Users\alind\OneDrive\Skrivbord\Musikspelare konsoll\Musikspelare konsoll\Musikspelare konsoll\obj\Debug\net6.0\Musikspelare konsoll.csproj.CoreCompileInputs.cache
+C:\Users\alind\OneDrive\Skrivbord\Musikspelare konsoll\Musikspelare konsoll\Musikspelare konsoll\obj\Debug\net6.0\Musikspelare konsoll.dll
+C:\Users\alind\OneDrive\Skrivbord\Musikspelare konsoll\Musikspelare konsoll\Musikspelare konsoll\obj\Debug\net6.0\refint\Musikspelare konsoll.dll
+C:\Users\alind\OneDrive\Skrivbord\Musikspelare konsoll\Musikspelare konsoll\Musikspelare konsoll\obj\Debug\net6.0\Musikspelare konsoll.pdb
+C:\Users\alind\OneDrive\Skrivbord\Musikspelare konsoll\Musikspelare konsoll\Musikspelare konsoll\obj\Debug\net6.0\Musikspelare konsoll.genruntimeconfig.cache
+C:\Users\alind\OneDrive\Skrivbord\Musikspelare konsoll\Musikspelare konsoll\Musikspelare konsoll\obj\Debug\net6.0\ref\Musikspelare konsoll.dll
